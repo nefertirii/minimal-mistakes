@@ -10,10 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "스위프트"
-    url: /swift/
-  # - title: "C Language"
-  #   url: /clanguage/
   - title: "카테고리"
     url: /categories/
   - title: "태그"

@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "연어포케를 좋아하는 개발자"
+title                    : "Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "연어포케를 좋아하는 개발자"
-description              : "연어포케를 좋아하는 개발자의 블로그"
+name                     : "nefertiri"
+description              : ""
 url                      : "https://nefertirii.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nefertirii/nefertirii.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Embedded SW"
+  name             : "nefertiri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer"
+  bio              : "S/W Developer"
   location         : "South Korea"
   email            :
   links:
