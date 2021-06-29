@@ -1,6 +1,6 @@
 ---
 title: "github.io 블로그 만들기"
-excerpt: "GitHub Blog 서비스를 이용하여 블로그를 만드는 과정이다."
+excerpt: "GitHub Blog 서비스를 이용하여 블로그를 만드는 과정입니다."
 toc: true
 toc_sticky: true
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "생활코딩 WEB2 - Home server"
-excerpt: "Home server"
+excerpt: "생활코딩 WEB2 - Home server 강의를 듣고 정리한 내용입니다."
 toc: true
 toc_sticky: true
 categories:
@@ -8,9 +8,7 @@ categories:
 tags:
  - Server
 last_modified_at:
----
-이 포스트는 생활코딩 WEB2 - Home server 강의를 듣고 정리한 내용입니다.
-
+--- 
 # 생활코딩 WEB2 - Home server
 ## 공유기
 ### IP Address(Internet Protocol Address)

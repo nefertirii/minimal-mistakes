@@ -1,6 +1,6 @@
 ---
 title: "생활코딩 DATABASE2 - MySQL"
-excerpt: "MySQL"
+excerpt: "생활코딩 DATABASE2 - MySQL 강의를 듣고 정리한 내용입니다."
 toc: true
 toc_sticky: true
 categories:
@@ -11,9 +11,6 @@ tags:
  - RDBMS
 last_modified_at:
 ---
-이 포스트는 생활코딩 DATABASE2 - MySQL 강의를 듣고 정리한 내용입니다.
-MacOS 에서 MySQL을 MariaDB로 대체하여 실행하였습니다.
-
 # 생활코딩 DATABASE2 - MySQL
 ## MariaDB 설치
 ### Linux
