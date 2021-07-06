@@ -9,3 +9,4 @@ author_profile: true
 
 1. [JPA 소개](/jpa/spring-jpa-01/)
 2. [JPA 시작](/jpa/spring-jpa-02/)
+2. [영속성 관리](/jpa/spring-jpa-03/)
